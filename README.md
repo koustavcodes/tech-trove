@@ -35,7 +35,7 @@ E-Shop is a modern and responsive online store for gaming products and gadgets, 
 ## Technologies Used
 - **HTML5** - Structure of the website.
 - **CSS3 & Bootstrap 5** - Styling and responsive design.
--give me all  **JavaScript** - Form validation and interactivity.
+- **JavaScript** - Form validation and interactivity.
 
 ## Contributing
 Feel free to fork and submit pull requests!
